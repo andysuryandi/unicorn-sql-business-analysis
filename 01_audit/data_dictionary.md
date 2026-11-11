@@ -26,7 +26,6 @@ Dieses Datenwörterbuch beschreibt die vier Tabellen customers, orders, order\_d
 |customer\_name|text|-|Name des Kunden|Keine fehlenden oder leeren Werte gefunden|
 |customer\_segment|text|-|Kundensegment|Consumer, Corporate, Home Office|
 
-## 
 
 ## 2\. orders
 
@@ -45,7 +44,6 @@ Dieses Datenwörterbuch beschreibt die vier Tabellen customers, orders, order\_d
 |shipping\_date|timestamp without time zone|-|Versanddatum der Bestellung|Kein Versanddatum liegt vor dem Bestelldatum|
 |shipping\_mode|text|-|Versandart|Versandmethode der Bestellung|
 
-## 
 
 ## 3\. order\_details
 
@@ -62,7 +60,6 @@ Dieses Datenwörterbuch beschreibt die vier Tabellen customers, orders, order\_d
 |order\_profits|double precision|-|Gewinn der Bestellposition|Negative Werte kommen vor|
 |order\_profit\_ratio|double precision|-|Verhältnis von Gewinn zu Umsatz|Negative Werte können bei Verlusten vorkommen|
 
-## 
 
 ## 4\. product
 
@@ -77,9 +74,6 @@ Dieses Datenwörterbuch beschreibt die vier Tabellen customers, orders, order\_d
 |product\_manufacturer|text|-|Hersteller des Produkts|356 Produkte haben den Wert "Other"|
 
 
-
-## 
-
 ## Hinweis zur Währung
 
 Die Währung der Umsatz- und Gewinnwerte ist in der verfügbaren
@@ -87,7 +81,6 @@ Projektdokumentation nicht angegeben. Geldbeträge werden daher
 in den Einheiten des Datensatzes ausgewiesen und nicht als EUR
 oder USD bezeichnet. Prozentuale Kennzahlen bleiben davon unberührt.
 
-## 
 
 ## Beobachtete Wertebereiche im gelieferten Snapshot
 
