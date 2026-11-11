@@ -13,7 +13,7 @@ Wo sollten wir den Fokus für weiteres Wachstum setzen?
 * Zeitraum: 2015–2018
 * Land: United States
 * Versandarten: First Class, Same Day, Second Class und Standard Class
-* Analyseeinheit der Umsatz- und Gewinnsummen: Bestellposition (`order\\\_details`)
+* Analyseeinheit der Umsatz- und Gewinnsummen: Bestellposition (`order_details`)
 
 Alle fünf KPIs verwenden denselben Business Scope.
 
