@@ -45,15 +45,8 @@ Jede Query enthält ihre eigenen CTEs und kann vollständig einzeln ausgeführt 
 
 Die CSV-Ausgaben wurden rechnerisch geprüft und zwischen den Queries abgeglichen. Diese Kontrollen ersetzen keinen unabhängigen Abgleich mit den Quelldaten. Annahmen und fachliche Grenzen sind im Bericht und in den SQL-Kommentaren dokumentiert.
 
+## Hinweis zum Projekt
 
-## Educational Disclaimer
-
-This project was developed for educational and portfolio
-purposes using a fictional retail company.
-
-The analysis demonstrates SQL, data quality validation,
-business analytics, and evidence-based recommendations.
-
-Raw data is not intended for public distribution.
-Data access may be considered upon request, subject
-to the original dataset's usage and sharing permissions.
+Dieses Projekt wurde zu Lern- und Portfoliozwecken anhand eines fiktiven Handelsunternehmens erstellt.
+Die Analyse demonstriert SQL-Kenntnisse, Datenqualitätsprüfungen, betriebswirtschaftliche Auswertungen und datenbasierte Handlungsempfehlungen.
+Die Veröffentlichung der Daten und Ergebnisse erfolgt im Rahmen der dafür geltenden Nutzungs- und Weitergaberechte.
