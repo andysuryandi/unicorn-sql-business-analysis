@@ -4,6 +4,28 @@ Disclaimer: This is an educational data analytics project based on a fictional c
 
 **Paketstand: 23.10.2026.** Analyse des gelieferten Unicorn-Snapshots 2015–2018. Geschäftliche Leitfrage: Wo sollte der Fokus für profitables Wachstum liegen?
 
+Die Analyse untersucht Umsatzentwicklung, regionale Wachstumstreiber, wichtige Kunden, Rabattwirkungen und Verlustbeiträge.
+
+Werkzeuge: PostgreSQL, SQL und Beekeeper Studio.
+
+Methoden: Daten-Audit, Qualitätssicherung, JOIN-Validierung, KPI-Berechnungen, CTEs, Aggregationen und Window Functions.
+
+Zentrale Ergebnisse
+
+Umsatzentwicklung: Der Umsatz stieg 2018 gegenüber 2017 um 20,34 %.
+
+Regionales Wachstum: Die Region West erzielte von 2017 bis 2018 mit 62.560 den höchsten absoluten Umsatzzuwachs.
+
+Rabattanalyse: Die hypothetische Umsatzdifferenz gegenüber einem Szenario ohne Rabatte beträgt 569.573,69. Dies ist kein nachgewiesener Umsatzverlust.
+
+Verlustbeiträge: Furniture verursachte 39,27 % der negativen Gewinnbeiträge innerhalb der verlustbringenden Bestellungen.
+
+Geschäftliche Empfehlung
+
+Die Rabatt- und Preisgestaltung der Produktkategorie Furniture sollte gezielt untersucht werden.
+
+Dafür sollten Rabattstufen, Unterkategorien sowie profitable und verlustbringende Bestellungen miteinander verglichen werden. Die vorliegenden Ergebnisse zeigen Zusammenhänge, belegen jedoch keine Ursache-Wirkungs-Beziehung.
+
 ## Einstieg
 
 1. `08_delivery/final_analysis.md`: Executive Summary, sechs Antworten, Grenzen und Empfehlung.  
