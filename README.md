@@ -1,5 +1,7 @@
 # Unicorn Analysis – Suryandi
 
+Disclaimer: This is an educational data analytics project based on a fictional company. All business scenarios, customer names, and analysis results are presented for learning and portfolio purposes.
+
 **Paketstand: 23.10.2026.** Analyse des gelieferten Unicorn-Snapshots 2015–2018. Geschäftliche Leitfrage: Wo sollte der Fokus für profitables Wachstum liegen?
 
 ## Einstieg
@@ -54,3 +56,5 @@ The dataset was provided as part of an educational SQL data analytics project in
 The raw data is not included in this public repository. Data access may be considered upon request, subject to the original dataset's usage and sharing permissions.
 
 The repository includes SQL queries, documentation, and selected aggregated analysis results to demonstrate the analytical methodology.
+
+Disclaimer: This is an educational data analytics project based on a fictional company. All business scenarios, customer names, and analysis results are presented for learning and portfolio purposes.
