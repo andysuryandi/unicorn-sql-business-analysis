@@ -1,0 +1,4 @@
+"product_category","negative_order_count","revenue_in_negative_orders","profit_in_negative_orders","net_loss_contribution","net_loss_contribution_pct"
+"Furniture","535","225526.00","-54975.00","54975.00","39.27"
+"Office Supplies","713","109498.00","-50575.00","50575.00","36.13"
+"Technology","281","137245.00","-34442.00","34442.00","24.60"
