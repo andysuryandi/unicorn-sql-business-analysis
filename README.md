@@ -46,3 +46,11 @@ Der Business Scope umfasst die Jahre 2015–2018, das Versandland United States 
 Die erfolgreiche Ausführung bestätigt die technische Ausführbarkeit des geprüften Skriptstands. Der Abgleich der Abfrageergebnisse mit den gespeicherten CSV-Exporten erfolgt separat. Bei Änderungen an SQL oder Datenbestand sind die betroffenen Prüfungen zu wiederholen.
 
 Die gespeicherten EXPLAIN-Pläne dokumentieren den jeweiligen damaligen Planungsstand. Geschätzte Kosten sind keine gemessenen Ausführungszeiten.
+
+### Data Availability
+
+The dataset was provided as part of an educational SQL data analytics project involving a fictional company.
+
+The raw data is not included in this public repository. Data access may be considered upon request, subject to the original dataset's usage and sharing permissions.
+
+The repository includes SQL queries, documentation, and selected aggregated analysis results to demonstrate the analytical methodology.
