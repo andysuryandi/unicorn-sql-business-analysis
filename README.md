@@ -40,7 +40,6 @@ Die Ergebnisse zeigen Zusammenhänge innerhalb des untersuchten Datensatzes, bel
 
 | Ordner / Datei | Inhalt |
 |---|---|
-| `00_database/` | Dokumentation der Datenquelle und Tabellenstruktur |
 | `01_audit/` | Datenwörterbuch, Grain, Schlüssel, Risiken und Exploration |
 | `02_qa/` | Datenprüfungen, Assertions und Business Slice |
 | `03_kpis/` | Fünf KPIs, Rabattsegmentierung und Ergebnisexporte |
