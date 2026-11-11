@@ -5,25 +5,27 @@
 
 Dieses Paket untersucht Umsatzentwicklung, regionale Wachstumstreiber, wichtige Kunden sowie Rabatte und Verlustbeiträge im Unicorn-Datensatz.
 
+
 ## Inhalt
 
 | Datei oder Ordner | Zweck |
-| :---- | :---- |
-| [final\_analysis.md](http://final_analysis.md) | Executive Summary, sechs Business-Fragen, Ergebnisse, Einschränkungen und Managementempfehlung. |
-| [final\_queries.sql](http://final_queries.sql) | Sechs einzeln ausführbare, kommentierte SQL-Abfragen. |
-| [outputs/](http://outputs/) | Sechs CSV-Exporte als Nachweise für die berichteten Zahlen. |
-| [self\_assessment.md](http://self_assessment.md) | Selbsteinschätzung mit Begründungen und Verbesserungsmöglichkeiten. |
-| [presentation.pptx](http://presentation.pptx) | Präsentation, 9 Folie. |
-| [stretch/follow\_up\_memo.md](http://stretch/follow_up_memo.md) | Vorschlag für eine gezielte Folgeuntersuchung zur Rabatt- und Preisgestaltung bei Furniture. |
+|---|---|
+| [final_analysis.md](final_analysis.md) | Abschlussbericht und Business-Empfehlung |
+| [final_queries.sql](final_queries.sql) | Sechs finale SQL-Abfragen |
+| [outputs/](outputs/) | CSV-Ergebnisse |
+| [self_assessment.md](self_assessment.md) | Selbsteinschätzung |
+| [presentation.pptx](presentation.pptx) | Abschlusspräsentation |
+| [stretch/follow_up_memo.md](stretch/follow_up_memo.md) | Vorschlag für eine Folgeuntersuchung |
 
-Ergebnisdateien
+## Ergebnisdateien
 
-* Q1: [outputs/q1\_revenue\_by\_year.csv](http://outputs/q1_revenue_by_year.csv)  
-* Q2: [outputs/q2\_region\_growth.csv](http://outputs/q2_region_growth.csv)  
-* Q3: [outputs/q3\_top\_customers.csv](http://outputs/q3_top_customers.csv)  
-* Q4: [outputs/q4\_discount\_impact.csv](http://outputs/q4_discount_impact.csv)  
-* Q5: [outputs/q5\_negative\_margin\_categories.csv](http://outputs/q5_negative_margin_categories.csv)  
-* Q6: [outputs/q6\_recommendation\_evidence.csv](http://outputs/q6_recommendation_evidence.csv)
+- [Q1 – Revenue by Year](outputs/q1_revenue_by_year.csv)
+- [Q2 – Region Growth](outputs/q2_region_growth.csv)
+- [Q3 – Top Customers](outputs/q3_top_customers.csv)
+- [Q4 – Discount Impact](outputs/q4_discount_impact.csv)
+- [Q5 – Negative Margin Categories](outputs/q5_negative_margin_categories.csv)
+- [Q6 – Recommendation Evidence](outputs/q6_recommendation_evidence.csv)
+
 
 ## So liest du das Paket
 
@@ -42,3 +44,16 @@ Der gemeinsame Business Scope umfasst Bestellungen von 2015 bis einschließlich 
 Jede Query enthält ihre eigenen CTEs und kann vollständig einzeln ausgeführt werden. Es werden keine zuvor angelegten temporären Tabellen oder Views benötigt. Für übereinstimmende Ergebnisse ist derselbe Datenstand erforderlich.
 
 Die CSV-Ausgaben wurden rechnerisch geprüft und zwischen den Queries abgeglichen. Diese Kontrollen ersetzen keinen unabhängigen Abgleich mit den Quelldaten. Annahmen und fachliche Grenzen sind im Bericht und in den SQL-Kommentaren dokumentiert.
+
+
+## Educational Disclaimer
+
+This project was developed for educational and portfolio
+purposes using a fictional retail company.
+
+The analysis demonstrates SQL, data quality validation,
+business analytics, and evidence-based recommendations.
+
+Raw data is not intended for public distribution.
+Data access may be considered upon request, subject
+to the original dataset's usage and sharing permissions.
